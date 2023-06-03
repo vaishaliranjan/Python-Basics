@@ -1,0 +1,9 @@
+#Exercise 4: Display float number with 2 decimal places using print()
+
+print("Number with 2 decimal point %0.2f" % 455)
+print("Number with 2 decimal point %0.2f" % 56.764)
+print("Number with 2 decimal point %0.2f" % 56.765)
+print("Number with 2 decimal point %0.2f" % 56.775)
+print("Number with 2 decimal point %0.2f" % 56.766)
+
+#note: watch the last digit changing accordingly
