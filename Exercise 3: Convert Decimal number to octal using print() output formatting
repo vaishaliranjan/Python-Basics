@@ -1,0 +1,3 @@
+#Exercise 3: Convert Decimal number to octal using print() output formatting
+x=10
+print('The octal value of',x,'is %o' % x)
